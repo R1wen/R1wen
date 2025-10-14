@@ -10,6 +10,6 @@ Hi everyone im Erwin
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=R1wen&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=R1wen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=R1wen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=R1wen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=cmake,c++,markdown)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
