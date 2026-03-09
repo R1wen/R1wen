@@ -12,11 +12,11 @@ Hi everyone im Erwin
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=R1wen&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
+![](https://github-readme-stats.vercel.app/api?username=R1wen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&title_color=e05252&icon_color=e05252&text_color=c9d1d9&bg_color=0d1117)
 
-![](https://nirzak-streak-stats.vercel.app/?user=R1wen&theme=tokyonight&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=R1wen&theme=dark&hide_border=true&ring=e05252&fire=ff6b6b&currStreakLabel=e05252&background=0d1117&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=6e7681)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=R1wen&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=cmake,c%2B%2B,markdown&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=R1wen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=cmake,c%2B%2B,markdown&langs_count=8&title_color=e05252&text_color=c9d1d9&bg_color=0d1117)
 
 </div>
 
